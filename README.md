@@ -1,4 +1,3 @@
--- Hi, I'm Alex a current undergraduate student at the University of British Columbia majoring in Cognitive Systems with a minor in Psychology.  
--- My main interests are software development and social and cultural psychology.  
--- I have expierence with Java, C++ and some functional languages such as racket and haskell. Currently, I am working on learning Ruby and Python.  
--- I can be contacted via email at acacereswright@gmail.com
+-- Hi, I'm Alex a First Year Master's Candidate at the University at Buffalo (SUNY).
+-- I received my Bachelor's Degree in Cognitive Systems, Cognition and Brain Stream, with a minor in Psychology, from the University of British Columbia.
+-- I have expierence with Java, C++, C, and Python, along with some functional languages: Racket and Haskell.
