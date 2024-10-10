@@ -1,3 +1,3 @@
 Hello,
 
-I have changed my github username, it is now acacereswright. You can find me at https://www.github.com/acacereswright
+I have moved my github. Please find me at https://www.github.com/acacereswright, or visit my website at https://www.acacereswright.com
